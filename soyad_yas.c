@@ -3,9 +3,9 @@
 #include <stdio.h>
 
  int main(){
-	char name[10] = "Güller";
-	char surname[10] = "Kalyoncu";
-	int age = 20;
+	char name[10] = "Ali";
+	char surname[10] = "Engintepe";
+	int age = 19;
 	age *= 2;
 
 	printf("Isim : %s \n",name);	
